@@ -1,0 +1,16 @@
+img{
+    display: block;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin:3rem auto;
+}
+button {
+    display: block;
+    margin: 1rem auto;
+    cursor:pointer ;
+    border-radius: 5px;
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 8px 18px;
+}
